@@ -1,1 +1,1 @@
-# assignment-1
+Assignment-1: This assignment contains a spam detector made for emails using training and testing method with the data already provided. To run this project you will need a small data and replace any path found in project with the absolute/relative path of the user's data.
